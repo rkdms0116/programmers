@@ -4,6 +4,7 @@ test = input()
 stack = deque()
 answer = []
 result = 0
+
 for n in range(len(test)):
 
     if n != 0 and not(stack):
