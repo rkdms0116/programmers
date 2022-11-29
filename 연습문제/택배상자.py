@@ -26,3 +26,4 @@ def solution(order):
             sub_con.append(n)
             n += 1
     return len(main_con)
+
